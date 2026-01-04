@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "password": "c23778aa725eefd001300bbc0454279c2f215d7a851e0d8caf1bc5d4cec94be2",
+    "role": "admin",
+    "name": "系统管理员",
+    "email": "admin@library.com",
+    "phone": "13800000000",
+    "createTime": "2026-01-04T15:24:01.387122"
+  }
+]
